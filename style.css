@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+.gridimg{
+    width:285px;
+    margin-bottom:12px;
+}
+html{
+    scroll-behavior: smooth;
+}
